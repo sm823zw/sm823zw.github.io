@@ -1096,3 +1096,10 @@ section .container {
     transform: translateX(-50%);
   }
 }
+
+.img-fluid {
+  width: 100%;
+  height: 100%;
+  vertical-align: middle;
+  text-align: center;
+}
